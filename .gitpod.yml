@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-photogram-signin@sha256:6fe2ff5e5dbd84731930bbe2d7fc9dce3a633d9c916b549c318157468333088a
+image: jelaniwoods/appdev2021-photogram-signin-hotfix
 
 tasks:
   - command: bundle install
